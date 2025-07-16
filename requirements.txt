@@ -1,7 +1,7 @@
 yfinance
 matplotlib
 datetime
-pyfolio-reloaded 
+git+https://github.com/sorayachristiane/pyfolio-reloadedfixed.git
 empyrical-reloaded
 matplotlib
 pandas
