@@ -1,0 +1,9 @@
+yfinance
+matplotlib
+datetime
+pyfolio
+empyrical
+matplotlib
+pandas
+sgs
+datetime
